@@ -3,13 +3,12 @@
 This project was generated with [Angular CLI](https://angular.io/cli) vesion 12.2.7.
 
 ## Development server
-Run `ng serve` fot a dev server and navigate to `http://localhost:4200/`. The app
- will automatically reload if you change any of the source
-  files.
+
+Run `ng serve` fot a dev server and navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`, read the [Documentation](https://angular.io/cli/generate) for more informations.
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
